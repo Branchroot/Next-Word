@@ -1,0 +1,6 @@
+{
+  "context_size": 5,
+  "predict_count": 1,
+  "dataset_path": "Dataset.json",
+  "model_path": "Model.bin"
+}
